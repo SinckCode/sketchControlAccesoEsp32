@@ -119,7 +119,6 @@ El sistema permite:
 |--------------------------------|----------------------------------------------------------------------------------------------|
 | `sketch_Ver6MotorApi.ino`      | ✅ **Versión más completa**, con control de servo, RFID, sensor ultrasónico y actualización de LEDs. Recomendado para producción si necesitas todas las funcionalidades. |
 | `sketch_Ver7MotorApi.ino`      | ✅ **Versión simplificada**, permite solo abrir/cerrar la pluma vía RFID o app, sin sensor de ocupación ni LEDs. Ideal para pruebas básicas o control de acceso sencillo. |
-| Archivos `.zip`                | Copias de respaldo de todas las iteraciones anteriores.                                     |
 
 ---
 
